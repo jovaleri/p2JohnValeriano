@@ -20,7 +20,7 @@ Demo Link: [link](https://www.figma.com/proto/PMXNC0ZSgbFJ2xFYdQlDDO/p2.JohnVale
 
 ## Examples 
 ### First Case
-![First Case](Images\AnalogDashboard.jpg)
+![First Case](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/AnalogDashboard.jpg)
 | Pros          | Cons           |
 | ------------- |:-------------:|
 | Simple      | Too simple |
@@ -28,28 +28,28 @@ Demo Link: [link](https://www.figma.com/proto/PMXNC0ZSgbFJ2xFYdQlDDO/p2.JohnVale
 | Analog meaning no bugs | Lacking in features      |
 
 ### Second Case
-![Second Case](Images\FordFusion.jpg)
+![Second Case](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/FordFusion.jpg)
 | Pros          | Cons           |
 | ------------- |:-------------:|
 | Shows Current Gear      | Speedometer is bigger than RPM |
 | Big Speedometer     | Not very informative      |
 | LCD Display | Menu Selection (Distracting)      |
 ### Third Case
-![Third Case](Images\Lambo.jpg)
+![Third Case](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/Lambo.jpg)
 | Pros          | Cons           |
 | ------------- |:-------------:|
 | Shows RPM      | Lacks Speedmeter |
 | Digital            | Menu Selection (Distracting)
 | Aggressive Dashboard | Expensive      |
 ### Fourth Case
-![Fourth Case](Images\MercedesBenz.jpg)
+![Fourth Case](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/MercedesBenz.jpg)
 | Pros          | Cons           |
 | ------------- |:-------------:|
 | Digital Speedometer & RPM      | Expensive |
 | Shows Map      | Not enough Features shown      |
 | Combined Dashboard instead of Separate |       |
 ### Fifth Case
-![Fifth Case](Images\TeslaDashboard.png)
+![Fifth Case](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/TeslaDashboard.png)
 | Pros          | Cons           |
 | ------------- |:-------------:|
 | All-in-One Dashboard      | If screen is damaged, no information will be shown |
@@ -80,5 +80,5 @@ Demo Link: [link](https://www.figma.com/proto/PMXNC0ZSgbFJ2xFYdQlDDO/p2.JohnVale
 6. Climate (Heater, AC, Heated Seats, etc.)
 
 ## My Take
-![Design](Images\UIDesign.png)
-![Simple](Images\SimpleUI.png)
+![Design](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/UIDesign.png)
+![Simple](https://github.com/jovaleri/p2JohnValeriano/blob/main/Images/SimpleUI.png)
