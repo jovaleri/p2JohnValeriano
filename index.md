@@ -2,7 +2,7 @@
  
 # By John Valeriano
 
-Video Link: https://youtu.be/XnsjkUiHxYY
+Video Link: [link]https://youtu.be/XnsjkUiHxYY
 
 Demo Link: [link](https://www.figma.com/proto/PMXNC0ZSgbFJ2xFYdQlDDO/p2.JohnValeriano?node-id=3%3A27&scaling=contain&page-id=0%3A1)
 
